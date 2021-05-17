@@ -20,6 +20,26 @@ atminties perkėlimų skaičius
 | **mVector**   | 0.170411 | 0.0292966 | 0.022966  | 0.109292 | 0.331965|
 
 ## Funkcijų aprašymai
+* [mVector::at()](#mVector::at)
+
+* [mVector::begin()](#mVector::begin)
+
+* [mVector::size()](#mVector::size)
+
+* [mVector::insert()](#mVector::insert)
+
+* [mVector::operator==](#mVector::equal)
+
+
+## <a name="mVector::at"></a>mVector::at()
+
+## <a name="mVector::begin"></a>mVector::begin()
+
+## <a name="mVector::size"></a>mVector::size()
+
+## <a name="mVector::insert"></a>mVector::insert()
+
+## <a name="mVector::equal"></a>mVector:: palyginimo operatorius '=='
 
 
 
