@@ -20,7 +20,7 @@ atminties perkėlimų skaičius
 | **mVector**   | 0.170411 | 0.0292966 | 0.022966  | 0.109292 | 0.331965|
 
 ## Funkcijų aprašymai
-* [mVector::at()](#mVector::at)
+[mVector::at()](#mVector::at)
 
 * [mVector::begin()](#mVector::begin)
 
