@@ -13,6 +13,12 @@ atminties perkėlimų skaičius
 |:----: |:------: |
 |  28 | 28 |
 
+2.0 pažymių skaičiuoklės sparta su 100000 studentų
+|            | nuskaitymas  | surūšiavimas  | išskaidymas | išvedimas | TOTAL |
+|:----:                        | :-----:  |:------: |:-------:|:--------:|:--------:|
+| **std::vector**  | 0.172281 | 0.028221 | 0.021136 | 0.1129765 | 0.334615 |
+| **mVector**   | 0.170411 | 0.0292966 | 0.022966  | 0.109292 | 0.331965|
+
 
 
 
