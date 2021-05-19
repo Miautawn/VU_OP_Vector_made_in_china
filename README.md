@@ -1,4 +1,4 @@
-# Vector (made in China)
+# mVector
 Tai std::vektorius, tik savadarbis :)
 
 ## Spartos tyrimas
